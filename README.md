@@ -81,4 +81,4 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ---
 
 ## 📖 Citation
-Correa Guinea, C. (2025). pyqcoda: Temporal disaggregation of daily precipitation into hourly using Q-CODA. DOI: 10.5281/zenodo.16364101
+Correa Guinea, C. (2025). pyqcoda: Temporal disaggregation of daily precipitation into hourly using Q-CODA. [![DOI](https://zenodo.org/badge/1024745705.svg)](https://doi.org/10.5281/zenodo.16364100)
