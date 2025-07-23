@@ -18,7 +18,7 @@
 ## ✨ Features
 
 - Disaggregates daily totals into 24-hour precipitation series.
-- Preserves sub-daily maxima (1h, 2h, 6h, 12h) in reconstructed data.
+- Preserves sub-daily maxima in reconstructed data.
 - Season-aware (DJF, MAM, JJA, SON) to capture seasonal variability.
 - Combines **comonotonicity** with **KNN-based iterative adjustments**.
 - Suitable for hydrological modeling and climate studies.
