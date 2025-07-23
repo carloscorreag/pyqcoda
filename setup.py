@@ -22,7 +22,7 @@ setup(
         "Topic :: Scientific/Engineering :: Hydrology",
         "Topic :: Scientific/Engineering :: Atmospheric Science",
     ],
-    python_requires='>=3.8',
+    python_requires='>=3.7',
     include_package_data=True,
 )
 
