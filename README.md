@@ -69,9 +69,9 @@ print("Hourly disaggregated precipitation saved to disaggregated_output.csv")
 ## 🔧 Requirements
 
 - Python 3.7+
-- pandas ≥ 1.3.0
-- numpy ≥ 1.21.0
-- scikit-learn ≥ 1.0.0
+- pandas ≥ 1.2.4
+- numpy ≥ 1.21.6
+- scikit-learn ≥ 1.0.2
 
 ---
 
