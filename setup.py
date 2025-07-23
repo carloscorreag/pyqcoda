@@ -8,7 +8,7 @@ setup(
     description="Temporal disaggregation of daily precipitation into hourly using Q-CODA.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/pyqcoda",
+    url="https://github.com/carloscorreag/pyqcoda",
     packages=find_packages(),
     install_requires=[
         "pandas>=1.3.0",
