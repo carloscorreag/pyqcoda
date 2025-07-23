@@ -18,5 +18,5 @@
 ## 📦 Installation
 
 ```bash
-pip install .
+pip install pyqcoda
 
