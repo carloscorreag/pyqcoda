@@ -11,9 +11,9 @@ setup(
     url="https://github.com/carloscorreag/pyqcoda",
     packages=find_packages(),
     install_requires=[
-        "pandas>=1.3.0",
-        "numpy>=1.21.0",
-        "scikit-learn>=1.0.0"
+        "pandas>=1.2.4",
+        "numpy>=1.21.6",
+        "scikit-learn>=1.0.2"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
