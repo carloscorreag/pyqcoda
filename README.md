@@ -1,6 +1,6 @@
 # pyqcoda
 
-**pyqcoda** is a Python library for temporal disaggregation of daily precipitation into hourly time series using a combination of **comonotonicity transformation** and an **iterative adjusted k-nearest neighbors (KNN)** algorithm. It is tailored for hydrological and climate data processing tasks where hourly data is required but only daily observations are available.
+**pyqcoda** is a Python library for temporal disaggregation of daily precipitation into hourly time series using Q-CODA (Quasi-Comonotonicity-based Disaggregation Algorithm), a combination of **comonotonicity transformation** and an **iterative adjusted k-nearest neighbors (KNN)** algorithm. It is tailored for hydrological and climate data processing tasks where hourly data is required but only daily observations are available.
 
 ---
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ---
 
 ## 📖 Citation
-Correa Guinea, C. (2025). pyqcoda: Temporal disaggregation of daily precipitation into hourly using Q-CODA. [![DOI](https://zenodo.org/badge/1024745705.svg)](https://doi.org/10.5281/zenodo.16364100)
+Correa, C. (2025). pyqcoda: Temporal disaggregation of daily precipitation into hourly using Q-CODA. [![DOI](https://zenodo.org/badge/1024745705.svg)](https://doi.org/10.5281/zenodo.16364100)
