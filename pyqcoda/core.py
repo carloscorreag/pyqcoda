@@ -173,7 +173,10 @@ class pyqcoda:
         simulations = {}
 
         for date, row in df_test.iterrows():
-            if pd.isnull(row["P24"]) or row["P24"] <= 0:
+            if pd.isnull(row["P24"]):
+                continue
+            if row["P24"] == 0:
+                simulations[date] = np.zeros(24)
                 continue
 
             season = row["season"]
