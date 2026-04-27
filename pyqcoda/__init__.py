@@ -8,6 +8,6 @@ Main class:
 from .core import pyqcoda  
 
 __all__ = ["pyqcoda"]
-__version__ = "1.0.0"
+__version__ = "1.0.4"
 
 
