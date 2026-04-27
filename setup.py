@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyqcoda",
-    version="1.0.0",
+    version="1.0.4",
     author="Carlos Correa Guinea",
     author_email="ccorreag@aemet.es",
     description="Temporal disaggregation of daily precipitation into hourly using Q-CODA.",
